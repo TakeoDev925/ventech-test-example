@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  FETCH_FIELD: "FETCH_FIELD",
+  FETCH_STATUS: "FETCH_STATUS",
+  SEND_FORM_DATA: "SEND_FORM_DATA",
+};
